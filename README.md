@@ -104,8 +104,7 @@ The application will be live at `http://localhost:3000`.
 ## 🤝 Credits
 
 A special thanks to everyone who helped in building this project:
-- **[@Lakshya](https://github.com/your-profile)** - Developer & Visionary.
-- **[@Krishna](https://github.com/krishna-profile)** - Debugging and Backend Support.
+- **[@Lakshya]([https://github.com/your-profile](https://github.com/lakshya-byte))** - Developer & Visionary.
 - Community contributors for inspiration and feedback.
 
 ---
